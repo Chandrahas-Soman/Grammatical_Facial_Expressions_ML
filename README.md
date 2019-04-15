@@ -1,5 +1,5 @@
-# Grammatical_Facial_Expressions_ML
+# Grammatical Facial Expressions using Machine Learning
 
-1.	We have two python files here (GFE.py and main.py), make sure that those files are in the same subdirectory.
-2.	You need to change the path for reading the dataset from your local machine.
-3.	Run GFE.py file.
+Implemented classifiers that predicted whether a given frame from video describes GFE or not.
+
+GFE are spatial-visual language that contribute to morphological and syntactic level in sign language and cooperate to solve the ambiguity between signs and give meaning to sentence.
